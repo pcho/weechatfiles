@@ -1,0 +1,6 @@
+[submodule "certs"]
+	path = certs
+	url = git@github.com:monkinco/certs.git
+[submodule "logs"]
+	path = logs
+	url = git@github.com:monkinco/logs.git
