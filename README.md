@@ -2,4 +2,4 @@
 
 Configuration files for [WeeChat](https://weechat.org).
 
-![WeeChat Screenshot](weechat.PNG)
+![WeeChat Screenshot](tldr.PNG)
